@@ -1,5 +1,5 @@
 <p align="center"><a href="https://t.me/MARRK_VC_PLAYER_BOT">
-    <img src="https://telegra.ph/file/51452e860abb8e7ad6890.jpg"></a></p>
+    <img src="https://te.legra.ph/file/7bdf03c71f848170d24b9.jpg"></a></p>
 <p align="center">
     <br><b>Video Stream is a telegram bot project that's allow you to play video on telegram group video chat</b><br>
 </p>
@@ -16,7 +16,7 @@
 
 ## 🧪 Get `SESSION_NAME` from below:
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@S780821/PyrogramSession) ``Pyrogram``
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@marrk85/MarrkWORLD) ``Pyrogram``
 
 ## ✨ Features
 - Music & Video stream support
@@ -76,6 +76,8 @@ python3 main.py # run the bot.
 # Credits 💖
  [``py-tgcalls``](https://github.com/pytgcalls/pytgcalls)
 - [Dan](https://github.com/delivrance) for [``Pyrogram``](https://github.com/pyrogram)
+# IRON ♡
+# 𓆩 𝙆 𝘼 𝙠 𝘼♠𓆪
 
 ### Support & Updates 🎑
 <a href="https://t.me/marrkmusic"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/marrkchannel"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
