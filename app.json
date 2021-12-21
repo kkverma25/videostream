@@ -46,7 +46,6 @@
         "DURATION_LIMIT": {
             "description": "maximum duration limit for downloadable videos (in minutes)",
             "required": true
-            "value": "20"
         },
         "GROUP_SUPPORT": {
             "description": "fill with your group username without @",
