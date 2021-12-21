@@ -50,22 +50,18 @@
         "GROUP_SUPPORT": {
             "description": "fill with your group username without @",
             "required": true
-            "value": "marrkmusic"
         },
         "UPDATES_CHANNEL": {
             "description": "fill with your channel username without @",
             "required": true
-            "value": "marrkchannel"
         },
         "OWNER_NAME": {
             "description": "fill with your telegram account username without @",
             "required": true
-            "value": "marrk85"
         },
         "ALIVE_NAME": {
             "description": "fill with your telegram account nickname",
             "required": true
-            "value": "Iron"
         }
     },
     "addons": [],
