@@ -16,7 +16,7 @@
 
 ## 🧪 Get `SESSION_NAME` from below:
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowred)](https://replit.com/@marrk85/MarrkWORLD) ``Pyrogram``
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowred)](https://replit.com/@marrk85/genStr-2) ``Pyrogram``
 
 ## ✨ Features
 - Music & Video stream support
