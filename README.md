@@ -76,8 +76,8 @@ python3 main.py # run the bot.
 # Credits 💖
  [``py-tgcalls``](https://github.com/pytgcalls/pytgcalls)
 - [Dan](https://github.com/delivrance) for [``Pyrogram``](https://github.com/pyrogram)
- [``IRON ♡``](https://t.me/marrk85)
- [``𓆩 𝙆 𝘼 𝙠 𝘼♠𓆪``](https://t.me/K_A_k_A_03)
+# [IRON ♡](https://t.me/marrk85)
+# [KAkA♠](https://t.me/K_A_k_A_03)
 
 ### Support & Updates 🎑
 <a href="https://t.me/marrkmusic"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/marrkchannel"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
