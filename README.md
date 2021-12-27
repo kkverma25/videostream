@@ -16,7 +16,7 @@
 
 ## 🧪 Get `SESSION_NAME` from below:
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowred)](https://replit.com/@marrk85/genStr-2) ``Pyrogram``
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowred)](https://replit.com/@marrk85/genStr) ``Pyrogram``
 
 ## ✨ Features
 - Music & Video stream support
@@ -76,8 +76,8 @@ python3 main.py # run the bot.
 # Credits 💖
  [``py-tgcalls``](https://github.com/pytgcalls/pytgcalls)
 - [Dan](https://github.com/delivrance) for [``Pyrogram``](https://github.com/pyrogram)
-# IRON ♡
-# 𓆩 𝙆 𝘼 𝙠 𝘼♠𓆪
+ [``IRON ♡``](https://t.me/marrk85)
+ [``𓆩 𝙆 𝘼 𝙠 𝘼♠𓆪``](https://t.me/K_A_k_A_03)
 
 ### Support & Updates 🎑
 <a href="https://t.me/marrkmusic"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/marrkchannel"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
