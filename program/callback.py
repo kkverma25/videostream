@@ -1,4 +1,4 @@
-# Copyright (C) 2021 By XmartyMusicProject
+# Copyright (C) 2021 By MarrkMusicProject
 
 from pyrogram import Client, filters
 from pyrogram.types import CallbackQuery, InlineKeyboardButton, InlineKeyboardMarkup
@@ -16,9 +16,8 @@ from config import (
 async def cbstart(_, query: CallbackQuery):
     await query.edit_message_text(
         f"""✨ **Welcome [{query.message.chat.first_name}](tg://user?id={query.message.chat.id}) !**\n
-💭 **[{BOT_NAME}](https://t.me/{BOT_USERNAME}) allows you to play music and video on groups through the new Telegram's video chats!**
-
-💡 **Find out all the Bot's commands and how they work by clicking on the » 📚 Commands button!**
+💭 **[{BOT_NAME}](https://t.me/{BOT_USERNAME}) 𝓪𝓵𝓵𝓸𝔀𝓼 𝔂𝓸𝓾 𝓽𝓸 𝓹𝓵𝓪𝔂 𝓶𝓾𝓼𝓲𝓬 𝓪𝓷𝓭 𝓿𝓲𝓭𝓮𝓸 𝓸𝓷 𝓰𝓻𝓸𝓾𝓹𝓼 𝓽𝓱𝓻𝓸𝓾𝓰𝓱 𝓽𝓱𝓮 𝓷𝓮𝔀 𝓣𝓮𝓵𝓮𝓰𝓻𝓪𝓶'𝓼 𝓿𝓲𝓭𝓮𝓸 𝓬𝓱𝓪𝓽𝓼!**
+💡 **𝓕𝓲𝓷𝓭 𝓸𝓾𝓽 𝓪𝓵𝓵 𝓽𝓱𝓮 𝓑𝓸𝓽'𝓼 𝓬𝓸𝓶𝓶𝓪𝓷𝓭𝓼 𝓪𝓷𝓭 𝓱𝓸𝔀 𝓽𝓱𝓮𝔂 𝔀𝓸𝓻𝓴 𝓫𝔂 𝓬𝓵𝓲𝓬𝓴𝓲𝓷𝓰 𝓸𝓷 𝓽𝓱𝓮 » 📚 𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚜 𝚋𝚞𝚝𝚝𝚘𝚗!**
 
 🔖 **To know how to use this bot, please click on the » ❓ Basic Guide button!**""",
         reply_markup=InlineKeyboardMarkup(
@@ -29,22 +28,22 @@ async def cbstart(_, query: CallbackQuery):
                         url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
                     )
                 ],
-                [InlineKeyboardButton("❓ Basic Guide", callback_data="cbhowtouse")],
+                [InlineKeyboardButton("❓ 𝙱𝚊𝚜𝚒𝚌 𝙶𝚞𝚒𝚍𝚎", callback_data="cbhowtouse")],
                 [
-                    InlineKeyboardButton("📚 Commands", callback_data="cbcmds"),
-                    InlineKeyboardButton("❤ Donate", url=f"https://t.me/{OWNER_NAME}"),
+                    InlineKeyboardButton("📚 𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚜", callback_data="cbcmds"),
+                    InlineKeyboardButton("✨𝕱𝖆𝖙𝖍𝖊𝖗✨", url=f"https://t.me/marrk85"),
                 ],
                 [
                     InlineKeyboardButton(
-                        "👥 Official Group", url=f"https://t.me/{GROUP_SUPPORT}"
+                        "👥 𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕 𝙶𝚛𝚘𝚞𝚙", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "📣 Official Channel", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        "📣 𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕 𝙲𝚑𝚊𝚗𝚗𝚎𝚕", url=f"https://t.me/{UPDATES_CHANNEL}"
                     ),
                 ],
                 [
                     InlineKeyboardButton(
-                        "🌐 Source Code", url="https://github.com/marrk85/video-stream"
+                        "🌐 𝑺𝒐𝒖𝒓𝒄𝒆 𝑪𝒐𝒅𝒆", url="https://github.com/marrk85/marrk-video-stream"
                     )
                 ],
             ]
