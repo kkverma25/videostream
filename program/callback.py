@@ -15,16 +15,16 @@ from config import (
 @Client.on_callback_query(filters.regex("cbstart"))
 async def cbstart(_, query: CallbackQuery):
     await query.edit_message_text(
-        f"""✨ **Welcome [{query.message.chat.first_name}](tg://user?id={query.message.chat.id}) !**\n
+        f"""✨ **𝒲ℯ𝓁𝒸ℴ𝓂ℯ [{query.message.chat.first_name}](tg://user?id={query.message.chat.id}) !**\n
 💭 **[{BOT_NAME}](https://t.me/{BOT_USERNAME}) 𝓪𝓵𝓵𝓸𝔀𝓼 𝔂𝓸𝓾 𝓽𝓸 𝓹𝓵𝓪𝔂 𝓶𝓾𝓼𝓲𝓬 𝓪𝓷𝓭 𝓿𝓲𝓭𝓮𝓸 𝓸𝓷 𝓰𝓻𝓸𝓾𝓹𝓼 𝓽𝓱𝓻𝓸𝓾𝓰𝓱 𝓽𝓱𝓮 𝓷𝓮𝔀 𝓣𝓮𝓵𝓮𝓰𝓻𝓪𝓶'𝓼 𝓿𝓲𝓭𝓮𝓸 𝓬𝓱𝓪𝓽𝓼!**
-💡 **𝓕𝓲𝓷𝓭 𝓸𝓾𝓽 𝓪𝓵𝓵 𝓽𝓱𝓮 𝓑𝓸𝓽'𝓼 𝓬𝓸𝓶𝓶𝓪𝓷𝓭𝓼 𝓪𝓷𝓭 𝓱𝓸𝔀 𝓽𝓱𝓮𝔂 𝔀𝓸𝓻𝓴 𝓫𝔂 𝓬𝓵𝓲𝓬𝓴𝓲𝓷𝓰 𝓸𝓷 𝓽𝓱𝓮 » 📚 𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚜 𝚋𝚞𝚝𝚝𝚘𝚗!**
+💡 **𝓕𝓲𝓷𝓭 𝓸𝓾𝓽 𝓪𝓵𝓵 𝓽𝓱𝓮 𝓑𝓸𝓽'𝓼 𝓬𝓸𝓶𝓶𝓪𝓷𝓭𝓼 𝓪𝓷𝓭 𝓱𝓸𝔀 𝓽𝓱𝓮𝔂 𝔀𝓸𝓻𝓴 𝓫𝔂 𝓬𝓵𝓲𝓬𝓴𝓲𝓷𝓰 𝓸𝓷 𝓽𝓱𝓮 » 📚𝒞ℴ𝓂𝓂𝒶𝓃𝒹𝓈 𝒷𝓊𝓉𝓉ℴ𝓃!**
 
-🔖 **To know how to use this bot, please click on the » ❓ Basic Guide button!**""",
+🔖 **𝒯ℴ 𝓀𝓃ℴ𝓌 𝒽ℴ𝓌 𝓉ℴ 𝓊𝓈ℯ 𝓉𝒽𝒾𝓈 𝒷ℴ𝓉, 𝓅𝓁ℯ𝒶𝓈ℯ 𝒸𝓁𝒾𝒸𝓀 ℴ𝓃 𝓉𝒽ℯ » ❓ Basic Guide button!**""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "➕ Add me to your Group ➕",
+                        "➕ 𝕬𝖉𝖉 𝖒𝖊 𝖙𝖔 𝖞𝖔𝖚𝖗 𝕲𝖗𝖔𝖚𝖕 ➕",
                         url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
                     )
                 ],
@@ -35,10 +35,10 @@ async def cbstart(_, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "👥 𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕 𝙶𝚛𝚘𝚞𝚙", url=f"https://t.me/{GROUP_SUPPORT}"
+                        "👥𝙶𝚛𝚘𝚞𝚙", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "📣 𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕 𝙲𝚑𝚊𝚗𝚗𝚎𝚕", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        "📣𝙲𝚑𝚊𝚗𝚗𝚎𝚕", url=f"https://t.me/{UPDATES_CHANNEL}"
                     ),
                 ],
                 [
