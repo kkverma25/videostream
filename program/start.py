@@ -53,37 +53,37 @@ async def _human_time_duration(seconds):
 async def start_(client: Client, message: Message):
     await message.reply_sticker("CAACAgQAAxkBAAEECP1hoQ3WiZmIgZ1M6zpI4tagFYi5AQACcQsAArp60VE-Obmr9D4hkiIE")
     await message.reply_text(
-        f"""✨ **Welcome {message.from_user.mention()} !**\n
-💭 [{BOT_NAME}](https://t.me/{BOT_USERNAME}) **allows you to play music and video on groups through the new Telegram's video chats!**
+        f"""✨ **𝒲ℯ𝓁𝒸ℴ𝓂ℯ {message.from_user.mention()} !**\n
+💭 [{BOT_NAME}](https://t.me/{BOT_USERNAME}) **𝓪𝓵𝓵𝓸𝔀𝓼 𝔂𝓸𝓾 𝓽𝓸 𝓹𝓵𝓪𝔂 𝓶𝓾𝓼𝓲𝓬 𝓪𝓷𝓭 𝓿𝓲𝓭𝓮𝓸 𝓸𝓷 𝓰𝓻𝓸𝓾𝓹𝓼 𝓽𝓱𝓻𝓸𝓾𝓰𝓱 𝓽𝓱𝓮 𝓷𝓮𝔀 𝓣𝓮𝓵𝓮𝓰𝓻𝓪𝓶'𝓼 𝓿𝓲𝓭𝓮𝓸 𝓬𝓱𝓪𝓽𝓼!**
 
-💡 **Find out all the Bot's commands and how they work by clicking on the » 📚 Commands button!**
+💡 **𝓕𝓲𝓷𝓭 𝓸𝓾𝓽 𝓪𝓵𝓵 𝓽𝓱𝓮 𝓑𝓸𝓽'𝓼 𝓬𝓸𝓶𝓶𝓪𝓷𝓭𝓼 𝓪𝓷𝓭 𝓱𝓸𝔀 𝓽𝓱𝓮𝔂 𝔀𝓸𝓻𝓴 𝓫𝔂 𝓬𝓵𝓲𝓬𝓴𝓲𝓷𝓰 𝓸𝓷 𝓽𝓱𝓮 » 📚𝒞ℴ𝓂𝓂𝒶𝓃𝒹𝓈 𝒷𝓊𝓉𝓉ℴ𝓃!**
 
-🔖 **To know how to use this bot, please click on the » ❓ Basic Guide button!**
+🔖 **𝒯ℴ 𝓀𝓃ℴ𝓌 𝒽ℴ𝓌 𝓉ℴ 𝓊𝓈ℯ 𝓉𝒽𝒾𝓈 𝒷ℴ𝓉, 𝓅𝓁ℯ𝒶𝓈ℯ 𝒸𝓁𝒾𝒸𝓀 ℴ𝓃 𝓉𝒽ℯ » ❓ Basic Guide button!**
 """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "➕ Add me to your Group ➕",
+                        "➕ 𝕬𝖉𝖉 𝖒𝖊 𝖙𝖔 𝖞𝖔𝖚𝖗 𝕲𝖗𝖔𝖚𝖕 ➕",
                         url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
                     )
                 ],
-                [InlineKeyboardButton("❓ Basic Guide", callback_data="cbhowtouse")],
+                [InlineKeyboardButton("❓𝙱𝚊𝚜𝚒𝚌 𝙶𝚞𝚒𝚍𝚎", callback_data="cbhowtouse")],
                 [
-                    InlineKeyboardButton("📚 Commands", callback_data="cbcmds"),
-                    InlineKeyboardButton("❤️ Donate", url=f"https://t.me/marrk85"),
+                    InlineKeyboardButton("📚𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚜", callback_data="cbcmds"),
+                    InlineKeyboardButton("✨𝕱𝖆𝖙𝖍𝖊𝖗✨", url=f"https://t.me/marrk85"),
                 ],
                 [
                     InlineKeyboardButton(
-                        "👥 Official Group", url=f"https://t.me/marrkmusic"
+                        "👥𝙶𝚛𝚘𝚞𝚙", url=f"https://t.me/marrkmusic"
                     ),
                     InlineKeyboardButton(
-                        "📣 Official Channel", url=f"https://t.me/marrkchannel"
+                        "📣𝙲𝚑𝚊𝚗𝚗𝚎𝚕", url=f"https://t.me/marrkchannel"
                     ),
                 ],
                 [
                     InlineKeyboardButton(
-                        "🌐 Source Code", url="https://github.com/marrk85/video-stream"
+                        "🌐𝑺𝒐𝒖𝒓𝒄𝒆 𝑪𝒐𝒅𝒆", url="https://github.com/marrk85/marrk-video-stream"
                     )
                 ],
             ]
