@@ -207,7 +207,7 @@ async def stream(_, m: Message):
                     text="✨ ɢʀᴏᴜᴘ", url=f"https://t.me/marrkmusic"
                 ),
                 InlineKeyboardButton(
-                    text="🌻ᴏғғɪᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/marrkchannel"
+                    text="🌻 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/marrkchannel"
                 ),
             ]
         ]
