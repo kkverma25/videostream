@@ -75,7 +75,7 @@ async def start_(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "👥𝙶𝚛𝚘𝚞𝚙", url=f"https://t.me/marrkmusic"
+                        "👥𝙶𝚛𝚘𝚞𝚙", url=f"https://t.me/marrksupport"
                     ),
                     InlineKeyboardButton(
                         "📣𝙲𝚑𝚊𝚗𝚗𝚎𝚕", url=f"https://t.me/marrkchannel"
@@ -83,7 +83,7 @@ async def start_(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🌐𝑺𝒐𝒖𝒓𝒄𝒆 𝑪𝒐𝒅𝒆", url="https://t.me/marrkmusic"
+                        "🌐𝑺𝒐𝒖𝒓𝒄𝒆 𝑪𝒐𝒅𝒆", url="https://t.me/marrksupport"
                     )
                 ],
             ]
@@ -103,7 +103,7 @@ async def alive(client: Client, message: Message):
     keyboard = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("✨ Group", url=f"https://t.me/marrkmusic"),
+                InlineKeyboardButton("✨ Group", url=f"https://t.me/marrksupport"),
                 InlineKeyboardButton(
                     "Official Channel", url=f"https://t.me/marrkchannel"
                 ),
