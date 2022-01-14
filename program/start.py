@@ -60,6 +60,8 @@ async def start_(client: Client, message: Message):
 
 🔖 **𝒯ℴ 𝓀𝓃ℴ𝓌 𝒽ℴ𝓌 𝓉ℴ 𝓊𝓈ℯ 𝓉𝒽𝒾𝓈 𝒷ℴ𝓉, 𝓅𝓁ℯ𝒶𝓈ℯ 𝒸𝓁𝒾𝒸𝓀 ℴ𝓃 𝓉𝒽ℯ » ❓ℬ𝒶𝓈𝒾𝒸 𝒢𝓊𝒾𝒹ℯ 𝒷𝓊𝓉𝓉ℴ𝓃!**
 """,
+     photo=f"https://te.legra.ph/file/d9635c34298e74f348cfd.jpg",
+
         reply_markup=InlineKeyboardMarkup(
             [
                 [
