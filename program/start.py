@@ -51,7 +51,7 @@ async def _human_time_duration(seconds):
     command(["start", f"start@{BOT_USERNAME}"]) & filters.private & ~filters.edited
 )
 async def start_(client: Client, message: Message):
-    await message.reply_sticker(
+    await message.reply_photo("https://te.legra.ph/file/d9635c34298e74f348cfd.jpg")
     await message.reply_text(
         f"""✨ **𝒲ℯ𝓁𝒸ℴ𝓂ℯ {message.from_user.mention()} !**\n
 💭 [{BOT_NAME}](https://t.me/{BOT_USERNAME}) **𝓪𝓵𝓵𝓸𝔀𝓼 𝔂𝓸𝓾 𝓽𝓸 𝓹𝓵𝓪𝔂 𝓶𝓾𝓼𝓲𝓬 𝓪𝓷𝓭 𝓿𝓲𝓭𝓮𝓸 𝓸𝓷 𝓰𝓻𝓸𝓾𝓹𝓼 𝓽𝓱𝓻𝓸𝓾𝓰𝓱 𝓽𝓱𝓮 𝓷𝓮𝔀 𝓣𝓮𝓵𝓮𝓰𝓻𝓪𝓶'𝓼 𝓿𝓲𝓭𝓮𝓸 𝓬𝓱𝓪𝓽𝓼!**
@@ -60,7 +60,6 @@ async def start_(client: Client, message: Message):
 
 🔖 **𝒯ℴ 𝓀𝓃ℴ𝓌 𝒽ℴ𝓌 𝓉ℴ 𝓊𝓈ℯ 𝓉𝒽𝒾𝓈 𝒷ℴ𝓉, 𝓅𝓁ℯ𝒶𝓈ℯ 𝒸𝓁𝒾𝒸𝓀 ℴ𝓃 𝓉𝒽ℯ » ❓ℬ𝒶𝓈𝒾𝒸 𝒢𝓊𝒾𝒹ℯ 𝒷𝓊𝓉𝓉ℴ𝓃!**
 """,
- photo=f"https://te.legra.ph/file/d9635c34298e74f348cfd.jpg",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
