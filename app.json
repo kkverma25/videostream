@@ -8,7 +8,7 @@
         "video stream"
     ],
     "website": "https://t.me/marrkmusic",
-    "repository": "https://github.com/marrk85/marrk-video-stream",
+    "repository": "https://github.com/marrk85/video-stream",
     "success_url": "https://t.me/marrk85",
     "env": {
         "API_ID": {
