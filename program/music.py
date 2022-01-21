@@ -1,4 +1,4 @@
-# Copyright (C) 2021 By marrk Music-Project
+# Copyright (C) 2021 By Marrk Music-Project
 # Commit Start Date 20/10/2021
 # Finished On 28/10/2021
 
@@ -8,7 +8,7 @@ import re
 from config import BOT_USERNAME, GROUP_SUPPORT, IMG_1, IMG_2, UPDATES_CHANNEL
 from driver.filters import command, other_filters
 from driver.queues import QUEUE, add_to_queue
-from driver.marrk import call_py
+from driver.xmarty import call_py
 from pyrogram import Client
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 from pytgcalls import StreamType
@@ -56,10 +56,10 @@ async def play(_, m: Message):
         [
             [
                 InlineKeyboardButton(
-                    text="✨ ɢʀᴏᴜᴘ", url=f"https://t.me/marrkmusic"
+                    text="ʙᴏᴛ ɢʀᴏᴜᴘ", url=f"https://t.me/marrkmusic"
                 ),
                 InlineKeyboardButton(
-                    text="🌻 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/marrkchannel"
+                    text="ʙᴏᴛ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/marrkchannel"
                 ),
             ]
         ]
@@ -204,10 +204,10 @@ async def stream(_, m: Message):
         [
             [
                 InlineKeyboardButton(
-                    text="✨ ɢʀᴏᴜᴘ", url=f"https://t.me/marrkmusic"
+                    text="ʙᴏᴛ ɢʀᴏᴜᴘ", url=f"https://t.me/marrkmusic"
                 ),
                 InlineKeyboardButton(
-                    text="🌻 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/marrkchannel"
+                    text="ʙᴏᴛ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/marrkchannel"
                 ),
             ]
         ]
