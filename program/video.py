@@ -1,4 +1,4 @@
-# Copyright (C) 2021 By marrk Music-Project
+# Copyright (C) 2021 By Marrk Music-Project
 # Commit Start Date 20/10/2021
 # Finished On 28/10/2021
 
@@ -62,10 +62,10 @@ async def vplay(client, m: Message):
         [
             [
                 InlineKeyboardButton(
-                    text="✨ ɢʀᴏᴜᴘ", url=f"https://t.me/marrkmusic"
+                    text="ʙᴏᴛ ɢʀᴏᴜᴘ", url=f"https://t.me/marrkmusic"
                 ),
                 InlineKeyboardButton(
-                    text="🌻 ᴏғғɪᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/marrkchannel"
+                    text="ʙᴏᴛ ᴄʜᴀᴀɴɴᴇʟ", url=f"https://t.me/marrkchannel"
                 ),
             ]
         ]
@@ -222,10 +222,10 @@ async def vstream(client, m: Message):
         [
             [
                 InlineKeyboardButton(
-                    text="✨ ɢʀᴏᴜᴘ", url=f"https://t.me/marrkmusic"
+                    text="ʙᴏᴛ ɢʀᴏᴜᴘ", url=f"https://t.me/marrkmusic"
                 ),
                 InlineKeyboardButton(
-                    text="ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/marrkchannel"
+                    text="ʙᴏᴛ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/marrkchannel"
                 ),
             ]
         ]
