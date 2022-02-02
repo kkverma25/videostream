@@ -49,4 +49,4 @@ async def CHAT_TITLE(ctitle):
         string = string.replace(font30L[cout], normalL[cout])
         string = string.replace(font31L[cout], normalL[cout])
         cout += 1
-    return string
+    return string 
