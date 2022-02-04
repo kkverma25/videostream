@@ -32,19 +32,19 @@ async def cbstart(_, query: CallbackQuery):
                 [InlineKeyboardButton("ʙᴀsɪᴄ ɢᴜɪᴅᴇ", callback_data="cbhowtouse")],
                 [
                     InlineKeyboardButton("ᴄᴏᴍᴍᴀɴᴅs", callback_data="cbcmds"),
-                    InlineKeyboardButton("ᴄʀᴇᴀᴛᴏʀ", url=f"https://t.me/marrk85"),
+                    InlineKeyboardButton("ᴄʀᴇᴀᴛᴏʀ", url=f"https://t.me/D_E_V_l_L"),
                 ],
                 [
                     InlineKeyboardButton(
-                        "ʙᴏᴛ ɢʀᴏᴜᴘ", url=f"https://t.me/marrkmusic"
+                        "🤴𝐎𝐖𝐍𝐄𝐑🤴", url=f"https://t.me/D_E_V_l_L"
                     ),
                     InlineKeyboardButton(
-                        "ʙᴏᴛ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/marrkchannel"
+                        "ʙᴏᴛ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/ABOUT_DEVIL_DAD"
                     ),
                 ],
                 [
                     InlineKeyboardButton(
-                        "ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", url=f"https://t.me/marrkmusic"
+                        "ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", url=f"https://t.me/ABOUT_DEVIL_DAD"
                     )
                 ],
             ]
