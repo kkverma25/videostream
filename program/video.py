@@ -62,10 +62,10 @@ async def vplay(client, m: Message):
         [
             [
                 InlineKeyboardButton(
-                    text="ʙᴏᴛ ɢʀᴏᴜᴘ", url=f"https://t.me/marrkmusic"
+                    text="🤴𝐎𝐖𝐍𝐄𝐑🤴", url=f"https://t.me/D_E_V_l_L"
                 ),
                 InlineKeyboardButton(
-                    text="ʙᴏᴛ ᴄʜᴀᴀɴɴᴇʟ", url=f"https://t.me/marrkchannel"
+                    text="ʙᴏᴛ ᴄʜᴀᴀɴɴᴇʟ", url=f"https://t.me/ABOUT_DEVIL_DAD"
                 ),
             ]
         ]
@@ -222,10 +222,10 @@ async def vstream(client, m: Message):
         [
             [
                 InlineKeyboardButton(
-                    text="ʙᴏᴛ ɢʀᴏᴜᴘ", url=f"https://t.me/marrkmusic"
+                    text="🤴𝐎𝐖𝐍𝐄𝐑🤴", url=f"https://t.me/D_E_V_l_L"
                 ),
                 InlineKeyboardButton(
-                    text="ʙᴏᴛ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/marrkchannel"
+                    text="ʙᴏᴛ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/ABOUT_DEVIL_DAD"
                 ),
             ]
         ]
