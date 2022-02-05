@@ -7,9 +7,9 @@
         "telegram bot",
         "video stream"
     ],
-    "website": "https://t.me/marrkmusic",
-    "repository": "https://github.com/marrk85/videostream",
-    "success_url": "https://t.me/marrk85",
+    "website": "https://t.me/D_E_V_l_L",
+    "repository": "https://github.com/kkverma25/videostream",
+    "success_url": "https://t.me/D_E_V_l_L",
     "env": {
         "API_ID": {
             "description": "your APP_ID from my.telegram.org",
