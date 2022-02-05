@@ -1,13 +1,13 @@
-<p align="center"><a href="https://t.me/marrkmusic">
-    <img src="https://te.legra.ph/file/7bdf03c71f848170d24b9.jpg"></a></p>
+<p align="center"><a href="https://t.me/D_E_V_l_L">
+    <img src="https://telegra.ph/file/424cca39d4e7fe74286ba.jpg"></a></p>
 <p align="center">
     <br><b>Video Stream is a telegram bot project that's allow you to play video on telegram group video chat</b><br>
 </p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
-    <a href="https://github.com/marrk85/videostream/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a>
+    <a href="https://github.com/kkverma25/videostream/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a>
     <a href="https://app.codacy.com/gh/marrk85/videostream/dashboard"> <img src="https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=red&logo=codacy&style=flat-square" alt="Codacy" /></a><br>
-    <a href="https://github.com/marrk85/videostream"> <img src="https://img.shields.io/github/repo-size/marrk85/videostream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/kkverma25/videostream/graphs/commit-activity"> <img src="https://img.shields.io/github/repo-size/marrk85/videostream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
     <a href="https://github.com/marrk85/videostream/commits/main"> <img src="https://img.shields.io/github/last-commit/marrk85/videostream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
     <a href="https://github.com/marrk85/videostream/issues"> <img src="https://img.shields.io/github/issues/marrk85/videostream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
     <a href="https://github.com/marrk85/videostream/network/members"> <img src="https://img.shields.io/github/forks/marrk85/videostream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
@@ -53,7 +53,7 @@
 ## Heroku Deployment 💜
 The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/marrk85/videostream)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kkverma25/videostream)
 ## Deploy On Railway
 Fill all variables 
 
