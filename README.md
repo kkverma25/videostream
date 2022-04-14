@@ -12,7 +12,7 @@
     <a href="https://github.com/marrk85/videostream/issues"> <img src="https://img.shields.io/github/issues/marrk85/videostream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
     <a href="https://github.com/marrk85/videostream/network/members"> <img src="https://img.shields.io/github/forks/marrk85/videostream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
     <a href="https://github.com/marrk85/videostream/network/members"> <img src="https://img.shields.io/github/stars/marrk85/videostream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
-<p align="center"><a href="https://t.me/marrkmusic">
+<p align="center"><a href="https://t.me/HINDI_MUS1C">
     <img src="https://telegra.ph/file/86c28a82fb88ebb051fd7.jpg"></a></p>
 <p align="center">
 </p>
@@ -79,8 +79,8 @@ python3 main.py # run the bot.
 # Credits 💖
  [``py-tgcalls``](https://github.com/pytgcalls/pytgcalls)
 - [Dan](https://github.com/delivrance) for [``Pyrogram``](https://github.com/pyrogram)
-# [IRON ♡](https://t.me/marrk85)
-# [KAkA♠](https://t.me/K_A_k_A_03)
+# [𝐄𝐕𝐄𝐑𝐄𝐓𝐓](https://t.me/D_E_V_l_L)
+# [𝐒𝐓𝐄𝐅𝐅𝐀𝐍](https://t.me/Dr_Steffan)
 
 ### Support & Updates 🎑
-<a href="https://t.me/marrkmusic"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/marrkchannel"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/HINDI_MUS1C"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/marrkchannel"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
