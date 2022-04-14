@@ -13,7 +13,7 @@
     <a href="https://github.com/marrk85/videostream/network/members"> <img src="https://img.shields.io/github/forks/marrk85/videostream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
     <a href="https://github.com/marrk85/videostream/network/members"> <img src="https://img.shields.io/github/stars/marrk85/videostream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
 <p align="center"><a href="https://t.me/marrkmusic">
-    <img src="https://te.legra.ph/file/56708bcb0025da5dc19c4.jpg"></a></p>
+    <img src="https://telegra.ph/file/86c28a82fb88ebb051fd7.jpg"></a></p>
 <p align="center">
 </p>
 
