@@ -56,10 +56,10 @@ async def play(_, m: Message):
         [
             [
                 InlineKeyboardButton(
-                    text="🤴𝐎𝐖𝐍𝐄𝐑🤴", url=f"https://t.me/D_E_V_l_L"
+                    text="🤴𝐃𝐄𝐕🤴", url=f"https://t.me/D_E_V_l_L"
                 ),
                 InlineKeyboardButton(
-                    text="ʙᴏᴛ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/ABOUT_DEVIL_DAD"
+                    text="𝐕𝐈𝐒𝐈𝐓 𝐇𝐄𝐑𝐄", url=f"https://t.me/About_EVERETT"
                 ),
             ]
         ]
@@ -204,10 +204,10 @@ async def stream(_, m: Message):
         [
             [
                 InlineKeyboardButton(
-                    text="🤴𝐎𝐖𝐍𝐄𝐑🤴", url=f"https://t.me/D_E_V_l_L"
+                    text="🤴𝐃𝐄𝐕🤴", url=f"https://t.me/D_E_V_l_L"
                 ),
                 InlineKeyboardButton(
-                    text="ʙᴏᴛ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/ABOUT_DEVIL_DAD"
+                    text="𝐕𝐈𝐒𝐈𝐓 𝐇𝐄𝐑𝐄", url=f"https://t.me/About_EVERETT"
                 ),
             ]
         ]
