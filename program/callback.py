@@ -16,35 +16,35 @@ from config import (
 async def cbstart(_, query: CallbackQuery):
     await query.edit_message_text(
         f"""✨ **Welcome [{query.message.chat.first_name}](tg://user?id={query.message.chat.id}) !**\n
-💭 **[{BOT_NAME}](https://t.me/{BOT_USERNAME}) ᴀʟʟᴏᴡs ʏᴏᴜ ᴛᴏ ᴘʟᴀʏ ᴍᴜsɪᴄ ᴀɴᴅ ᴠɪᴅᴇᴏ ᴏɴ ɢʀᴏᴜᴘs ᴛʜʀᴏᴜɢʜ ᴛʜᴇ ɴᴇᴡ ᴛᴇʟᴇɢʀᴀᴍ's ᴠɪᴅᴇᴏ ᴄʜᴀᴛs!**
+💭 **[{BOT_NAME}](https://t.me/{BOT_USERNAME}) 𝑨𝖑𝖑𝖔𝖜𝖘  𝖄𝖔𝖚 𝖙𝖔 𝖕𝖑𝖆𝒚 𝖒𝖚𝖘𝖎𝖈 𝖆𝖓𝖉 𝒗𝖎𝖉𝖊𝖔 𝖔𝖓 𝖌𝖗𝖔𝖚𝖕𝖘 𝖙𝖍𝖗𝖔𝖚𝖌𝖍 𝖙𝖍𝖊 𝖓𝖊𝒘 𝖙𝖊𝖑𝖊𝖌𝖗𝖆𝖒'𝖘 𝖛𝖎𝖉𝖊𝖔 𝖈𝖍𝖆𝖙!!**
 
-💡 **Fɪɴᴅ ᴏᴜᴛ ᴀʟʟ ᴛʜᴇ Bᴏᴛ's ᴄᴏᴍᴍᴀɴᴅs ᴀɴᴅ ʜᴏᴡ ᴛʜᴇʏ ᴡᴏʀᴋ ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴏɴ ᴛʜᴇ » 📚 Cᴏᴍᴍᴀɴᴅs ʙᴜᴛᴛᴏɴ!**
+💡 **💡𝕱𝖎𝖓𝖉 𝖔𝖚𝖙 𝖆𝖑𝖑 𝖙𝖍𝖊 𝖇𝖔𝖙'𝖘  𝖆𝖓𝖉 𝖍𝖔𝒘 𝖙𝖍𝖊𝖞 𝒘𝖔𝖗𝖐 𝖇𝒚 𝖈𝖑𝖎𝖈𝖐𝖎𝖓𝖌 𝖔𝖓 𝖙𝖍𝖊  » 📚𝐂𝐌𝐃𝐒 𝖇𝖚𝖙𝖙𝖔𝖓!**
 
-🔖 **🔖 ᴛᴏ ᴋɴᴏᴡ ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴛʜɪs ʙᴏᴛ, ᴘʟᴇᴀsᴇ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ » ❓ ʙᴀsɪᴄ ɢᴜɪᴅᴇ ʙᴜᴛᴛᴏɴ!**""",
+🔖 **🔖 𝖙𝖔 𝖐𝖓𝖔𝒘 𝖍𝖔𝒘 𝖙𝖔 𝖚𝖘𝖊 𝖙𝖍𝖎𝖘 𝖇𝖔𝖙, 𝖕𝖊𝖑𝖊𝖆𝖘𝖊 𝖈𝖑𝖎𝖈𝖐 𝖔𝖓 𝖙𝖍𝖊  » ❓ 𝐁𝐀𝐒𝐈𝐂 𝐆𝐔𝐈𝐃𝐄!**""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "ᴀᴅᴅ ᴍᴇ ᴛᴏ ᴜʀ ɢʀᴏᴜᴘ",
+                        "🎶🎶𝐀𝐃𝐃 𝐌𝐄🎶🎶",
                         url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
                     )
                 ],
-                [InlineKeyboardButton("ʙᴀsɪᴄ ɢᴜɪᴅᴇ", callback_data="cbhowtouse")],
+                [InlineKeyboardButton("𝐁𝐀𝐒𝐈𝐂 𝐆𝐔𝐈𝐃𝐄", callback_data="cbhowtouse")],
                 [
-                    InlineKeyboardButton("ᴄᴏᴍᴍᴀɴᴅs", callback_data="cbcmds"),
-                    InlineKeyboardButton("ᴄʀᴇᴀᴛᴏʀ", url=f"https://t.me/D_E_V_l_L"),
+                    InlineKeyboardButton("📚𝐂𝐌𝐃𝐒", callback_data="cbcmds"),
+                    InlineKeyboardButton("𝐕𝐈𝐒𝐈𝐓 𝐇𝐄𝐑𝐄", url=f"https://t.me/About_EVERETT"),
                 ],
                 [
                     InlineKeyboardButton(
-                        "🤴𝐎𝐖𝐍𝐄𝐑🤴", url=f"https://t.me/D_E_V_l_L"
+                        "🤴𝐃𝐄𝐕🤴", url=f"https://t.me/D_E_V_l_L"
                     ),
                     InlineKeyboardButton(
-                        "ʙᴏᴛ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/ABOUT_DEVIL_DAD"
+                        "🎧𝐌𝐔𝐒𝐈𝐂𝐒🎧", url=f"https://t.me/HINDI_MUS1C"
                     ),
                 ],
                 [
                     InlineKeyboardButton(
-                        "ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", url=f"https://t.me/ABOUT_DEVIL_DAD"
+                        "🎬𝐌𝐎𝐕𝐈𝐄𝐒🎬", url=f"https://t.me/backup_channel_000"
                     )
                 ],
             ]
