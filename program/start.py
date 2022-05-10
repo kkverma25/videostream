@@ -64,26 +64,26 @@ async def start_(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "ᴀᴅᴅ ᴍᴇ ᴛᴏ ᴜʀ ɢʀᴏᴜᴘ",
+                        "🎶🎶𝐀𝐃𝐃 𝐌𝐄🎶🎶",
                         url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
                     )
                 ],
-                [InlineKeyboardButton("ʙᴀsɪᴄ ɢᴜɪᴅᴇ", callback_data="cbhowtouse")],
+                [InlineKeyboardButton("𝐁𝐀𝐒𝐈𝐂 𝐆𝐔𝐈𝐃𝐄", callback_data="cbhowtouse")],
                 [
-                    InlineKeyboardButton("ᴄᴏᴍᴍᴀɴᴅs", callback_data="cbcmds"),
-                    InlineKeyboardButton("ᴄʀᴇᴀᴛᴏʀ", url=f"https://t.me/D_E_V_l_L"),
+                    InlineKeyboardButton("📚𝐂𝐌𝐃𝐒", callback_data="cbcmds"),
+                    InlineKeyboardButton("𝐕𝐈𝐒𝐈𝐓 𝐇𝐄𝐑𝐄", url=f"https://t.me/About_EVERETT"),
                 ],
                 [
                     InlineKeyboardButton(
-                        "🤴𝐎𝐖𝐍𝐄𝐑🤴", url=f"https://t.me/D_E_V_l_L"
+                        "🤴𝐃𝐄𝐕🤴", url=f"https://t.me/D_E_V_l_L"
                     ),
                     InlineKeyboardButton(
-                        "ʙᴏᴛ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/ABOUT_DEVIL_DAD"
+                        "🎧𝐌𝐔𝐒𝐈𝐂𝐒🎧", url=f"https://t.me/HINDI_MUS1C"
                     ),
                 ],
                 [
                     InlineKeyboardButton(
-                        "ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", url=f"https://t.me/D_E_V_l_L"
+                        "🎬𝐌𝐎𝐕𝐈𝐄𝐒🎬", url=f"https://t.me/backup_channel_000"
                     )
                 ],
             ]
