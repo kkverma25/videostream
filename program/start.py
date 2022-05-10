@@ -103,9 +103,9 @@ async def alive(client: Client, message: Message):
     keyboard = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("🤴𝐎𝐖𝐍𝐄𝐑🤴", url=f"https://t.me/D_E_V_l_L"),
+                InlineKeyboardButton("🤴𝐃𝐄𝐕🤴", url=f"https://t.me/D_E_V_l_L"),
                 InlineKeyboardButton(
-                    "ʙᴏᴛ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/ABOUT_DEVIL_DAD"
+                    "𝐕𝐈𝐒𝐈𝐓 𝐇𝐄𝐑𝐄", url=f"https://t.me/About_EVERETT"
                 ),
             ]
         ]
