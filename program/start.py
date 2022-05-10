@@ -54,11 +54,11 @@ async def start_(client: Client, message: Message):
     await message.reply_sticker("CAACAgQAAxkBAAEDsTZh4xBVu96tWo0G0CIbn_meSGs6LwACWxcAAqbxcR4yeTJRtPe4UCME")
     await message.reply_text(
         f"""✨ **ᴡᴇʟᴄᴏᴍᴇ {message.from_user.mention()} !**\n
-💭 [{BOT_NAME}](https://t.me/{BOT_USERNAME}) **ᴀʟʟᴏᴡs ʏᴏᴜ ᴛᴏ ᴘʟᴀʏ ᴍᴜsɪᴄ ᴀɴᴅ ᴠɪᴅᴇᴏ ᴏɴ ɢʀᴏᴜᴘs ᴛʜʀᴏᴜɢʜ ᴛʜᴇ ɴᴇᴡ ᴛᴇʟᴇɢʀᴀᴍ's ᴠɪᴅᴇᴏ ᴄʜᴀᴛs!**
+💭 [{BOT_NAME}](https://t.me/{BOT_USERNAME}) **𝑨𝖑𝖑𝖔𝖜𝖘  𝖄𝖔𝖚 𝖙𝖔 𝖕𝖑𝖆𝒚 𝖒𝖚𝖘𝖎𝖈 𝖆𝖓𝖉 𝒗𝖎𝖉𝖊𝖔 𝖔𝖓 𝖌𝖗𝖔𝖚𝖕𝖘 𝖙𝖍𝖗𝖔𝖚𝖌𝖍 𝖙𝖍𝖊 𝖓𝖊𝒘 𝖙𝖊𝖑𝖊𝖌𝖗𝖆𝖒'𝖘 𝖛𝖎𝖉𝖊𝖔 𝖈𝖍𝖆𝖙!!**
 
-💡 **ғɪɴᴅ ᴏᴜᴛ ᴀʟʟ ᴛʜᴇ ʙᴏᴛ's ᴄᴏᴍᴍᴀɴᴅs ᴀɴᴅ ʜᴏᴡ ᴛʜᴇʏ ᴡᴏʀᴋ ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴏɴ ᴛʜᴇ » 📚 ᴄᴏᴍᴍᴀɴᴅs ʙᴜᴛᴛᴏɴ!**
+💡 **𝕱𝖎𝖓𝖉 𝖔𝖚𝖙 𝖆𝖑𝖑 𝖙𝖍𝖊 𝖇𝖔𝖙'𝖘  𝖆𝖓𝖉 𝖍𝖔𝒘 𝖙𝖍𝖊𝖞 𝒘𝖔𝖗𝖐 𝖇𝒚 𝖈𝖑𝖎𝖈𝖐𝖎𝖓𝖌 𝖔𝖓 𝖙𝖍𝖊  » 📚𝐂𝐌𝐃𝐒 𝖇𝖚𝖙𝖙𝖔𝖓!**
 
-🔖 **🔖 ᴛᴏ ᴋɴᴏᴡ ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴛʜɪs ʙᴏᴛ, ᴘʟᴇᴀsᴇ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ » ❓ ʙᴀsɪᴄ ɢᴜɪᴅᴇ ʙᴜᴛᴛᴏɴ!**
+🔖 **𝖙𝖔 𝖐𝖓𝖔𝒘 𝖍𝖔𝒘 𝖙𝖔 𝖚𝖘𝖊 𝖙𝖍𝖎𝖘 𝖇𝖔𝖙, 𝖕𝖊𝖑𝖊𝖆𝖘𝖊 𝖈𝖑𝖎𝖈𝖐 𝖔𝖓 𝖙𝖍𝖊  » ❓ 𝐁𝐀𝐒𝐈𝐂 𝐆𝐔𝐈𝐃𝐄*
 """,
         reply_markup=InlineKeyboardMarkup(
             [
